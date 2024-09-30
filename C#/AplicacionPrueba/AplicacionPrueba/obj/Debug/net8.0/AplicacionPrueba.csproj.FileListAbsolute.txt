@@ -1,0 +1,15 @@
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\AplicacionPrueba\bin\Debug\net8.0\AplicacionPrueba.exe
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\AplicacionPrueba\bin\Debug\net8.0\AplicacionPrueba.deps.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\AplicacionPrueba\bin\Debug\net8.0\AplicacionPrueba.runtimeconfig.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\AplicacionPrueba\bin\Debug\net8.0\AplicacionPrueba.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\AplicacionPrueba\bin\Debug\net8.0\AplicacionPrueba.pdb
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\AplicacionPrueba\obj\Debug\net8.0\AplicacionPrueba.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\AplicacionPrueba\obj\Debug\net8.0\AplicacionPrueba.AssemblyInfoInputs.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\AplicacionPrueba\obj\Debug\net8.0\AplicacionPrueba.AssemblyInfo.cs
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\AplicacionPrueba\obj\Debug\net8.0\AplicacionPrueba.csproj.CoreCompileInputs.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\AplicacionPrueba\obj\Debug\net8.0\AplicacionPrueba.sourcelink.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\AplicacionPrueba\obj\Debug\net8.0\AplicacionPrueba.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\AplicacionPrueba\obj\Debug\net8.0\refint\AplicacionPrueba.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\AplicacionPrueba\obj\Debug\net8.0\AplicacionPrueba.pdb
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\AplicacionPrueba\obj\Debug\net8.0\AplicacionPrueba.genruntimeconfig.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\AplicacionPrueba\obj\Debug\net8.0\ref\AplicacionPrueba.dll
