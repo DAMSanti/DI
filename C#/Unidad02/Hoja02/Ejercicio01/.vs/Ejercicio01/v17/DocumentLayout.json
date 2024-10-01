@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja02\\Ejercicio01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30D33AE6-594C-4090-8063-D6AF6885115B}|Ejercicio01\\Ejercicio01.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja02\\ejercicio01\\ejercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D33AE6-594C-4090-8063-D6AF6885115B}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja02\\Ejercicio01\\Ejercicio01\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio01\\Program.cs",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja02\\Ejercicio01\\Ejercicio01\\Program.cs",
+              "RelativeToolTip": "Ejercicio01\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:49:16.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

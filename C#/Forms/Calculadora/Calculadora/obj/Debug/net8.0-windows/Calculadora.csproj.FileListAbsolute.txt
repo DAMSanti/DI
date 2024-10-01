@@ -1,0 +1,17 @@
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.exe
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.deps.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.runtimeconfig.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.pdb
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.Form1.resources
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.csproj.GenerateResource.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.AssemblyInfoInputs.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.AssemblyInfo.cs
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.sourcelink.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\Calculadora\Calculadora\obj\Debug\net8.0-windows\refint\Calculadora.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.pdb
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.genruntimeconfig.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\Calculadora\Calculadora\obj\Debug\net8.0-windows\ref\Calculadora.dll

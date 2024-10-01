@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja02\\Ejercicio08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2187A5-714D-4BFC-9585-6891F32C9F58}|Ejercicio08\\Ejercicio08.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja02\\ejercicio08\\ejercicio08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2187A5-714D-4BFC-9585-6891F32C9F58}|Ejercicio08\\Ejercicio08.csproj|solutionrelative:ejercicio08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja02\\Ejercicio08\\Ejercicio08\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio08\\Program.cs",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja02\\Ejercicio08\\Ejercicio08\\Program.cs",
+              "RelativeToolTip": "Ejercicio08\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:16:06.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

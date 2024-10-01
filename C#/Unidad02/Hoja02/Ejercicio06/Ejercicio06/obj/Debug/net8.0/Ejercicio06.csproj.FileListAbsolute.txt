@@ -1,0 +1,15 @@
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio06\Ejercicio06\bin\Debug\net8.0\Ejercicio06.exe
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio06\Ejercicio06\bin\Debug\net8.0\Ejercicio06.deps.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio06\Ejercicio06\bin\Debug\net8.0\Ejercicio06.runtimeconfig.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio06\Ejercicio06\bin\Debug\net8.0\Ejercicio06.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio06\Ejercicio06\bin\Debug\net8.0\Ejercicio06.pdb
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio06\Ejercicio06\obj\Debug\net8.0\Ejercicio06.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio06\Ejercicio06\obj\Debug\net8.0\Ejercicio06.AssemblyInfoInputs.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio06\Ejercicio06\obj\Debug\net8.0\Ejercicio06.AssemblyInfo.cs
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio06\Ejercicio06\obj\Debug\net8.0\Ejercicio06.csproj.CoreCompileInputs.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio06\Ejercicio06\obj\Debug\net8.0\Ejercicio06.sourcelink.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio06\Ejercicio06\obj\Debug\net8.0\Ejercicio06.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio06\Ejercicio06\obj\Debug\net8.0\refint\Ejercicio06.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio06\Ejercicio06\obj\Debug\net8.0\Ejercicio06.pdb
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio06\Ejercicio06\obj\Debug\net8.0\Ejercicio06.genruntimeconfig.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio06\Ejercicio06\obj\Debug\net8.0\ref\Ejercicio06.dll

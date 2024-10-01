@@ -1,0 +1,17 @@
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\PruebaForms\PruebaForms\bin\Debug\net8.0-windows\PruebaForms.exe
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\PruebaForms\PruebaForms\bin\Debug\net8.0-windows\PruebaForms.deps.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\PruebaForms\PruebaForms\bin\Debug\net8.0-windows\PruebaForms.runtimeconfig.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\PruebaForms\PruebaForms\bin\Debug\net8.0-windows\PruebaForms.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\PruebaForms\PruebaForms\bin\Debug\net8.0-windows\PruebaForms.pdb
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\PruebaForms\PruebaForms\obj\Debug\net8.0-windows\PruebaForms.Form1.resources
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\PruebaForms\PruebaForms\obj\Debug\net8.0-windows\PruebaForms.csproj.GenerateResource.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\PruebaForms\PruebaForms\obj\Debug\net8.0-windows\PruebaForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\PruebaForms\PruebaForms\obj\Debug\net8.0-windows\PruebaForms.AssemblyInfoInputs.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\PruebaForms\PruebaForms\obj\Debug\net8.0-windows\PruebaForms.AssemblyInfo.cs
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\PruebaForms\PruebaForms\obj\Debug\net8.0-windows\PruebaForms.csproj.CoreCompileInputs.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\PruebaForms\PruebaForms\obj\Debug\net8.0-windows\PruebaForms.sourcelink.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\PruebaForms\PruebaForms\obj\Debug\net8.0-windows\PruebaForms.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\PruebaForms\PruebaForms\obj\Debug\net8.0-windows\refint\PruebaForms.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\PruebaForms\PruebaForms\obj\Debug\net8.0-windows\PruebaForms.pdb
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\PruebaForms\PruebaForms\obj\Debug\net8.0-windows\PruebaForms.genruntimeconfig.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Forms\PruebaForms\PruebaForms\obj\Debug\net8.0-windows\ref\PruebaForms.dll

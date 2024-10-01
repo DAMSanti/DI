@@ -1,0 +1,15 @@
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio14\Ejercicio14\bin\Debug\net8.0\Ejercicio14.exe
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio14\Ejercicio14\bin\Debug\net8.0\Ejercicio14.deps.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio14\Ejercicio14\bin\Debug\net8.0\Ejercicio14.runtimeconfig.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio14\Ejercicio14\bin\Debug\net8.0\Ejercicio14.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio14\Ejercicio14\bin\Debug\net8.0\Ejercicio14.pdb
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio14\Ejercicio14\obj\Debug\net8.0\Ejercicio14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio14\Ejercicio14\obj\Debug\net8.0\Ejercicio14.AssemblyInfoInputs.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio14\Ejercicio14\obj\Debug\net8.0\Ejercicio14.AssemblyInfo.cs
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio14\Ejercicio14\obj\Debug\net8.0\Ejercicio14.csproj.CoreCompileInputs.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio14\Ejercicio14\obj\Debug\net8.0\Ejercicio14.sourcelink.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio14\Ejercicio14\obj\Debug\net8.0\Ejercicio14.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio14\Ejercicio14\obj\Debug\net8.0\refint\Ejercicio14.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio14\Ejercicio14\obj\Debug\net8.0\Ejercicio14.pdb
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio14\Ejercicio14\obj\Debug\net8.0\Ejercicio14.genruntimeconfig.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja02\Ejercicio14\Ejercicio14\obj\Debug\net8.0\ref\Ejercicio14.dll
