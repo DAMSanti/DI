@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{3CDFECE3-DD1B-4E94-B02A-804DEE340A70}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CDFECE3-DD1B-4E94-B02A-804DEE340A70}|Calculadora\\Calculadora.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\forms\\calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3CDFECE3-DD1B-4E94-B02A-804DEE340A70}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3CDFECE3-DD1B-4E94-B02A-804DEE340A70}|Calculadora\\Calculadora.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\forms\\calculadora\\calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CDFECE3-DD1B-4E94-B02A-804DEE340A70}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -26,13 +22,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Forms\\Calculadora\\Calculadora\\Program.cs",
               "RelativeDocumentMoniker": "Calculadora\\Program.cs",
               "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Forms\\Calculadora\\Calculadora\\Program.cs",
               "RelativeToolTip": "Calculadora\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T15:05:53.223Z",
               "IsPinned": true,
@@ -46,22 +42,10 @@
               "RelativeDocumentMoniker": "Calculadora\\Form1.cs",
               "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Forms\\Calculadora\\Calculadora\\Form1.cs",
               "RelativeToolTip": "Calculadora\\Form1.cs",
-              "ViewState": "AQIAAK4AAAAAAAAAAAAkwL0AAAAJAAAA",
+              "ViewState": "AQIAAOgAAAAAAAAAAAAUwMkAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T15:06:10.444Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Forms\\Calculadora\\Calculadora\\Form1.cs",
-              "RelativeDocumentMoniker": "Calculadora\\Form1.cs",
-              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Forms\\Calculadora\\Calculadora\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Calculadora\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T15:01:59.083Z",
-              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
