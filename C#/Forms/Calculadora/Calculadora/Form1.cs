@@ -1,13 +1,87 @@
 namespace Calculadora {
     public partial class Form1 : Form {
 
-        int num1 = 0;
-        int operador = 0;
-        int num2 = 0;
-        int resultado = 0;
+        private TextBox hiddenTextBox;
+
+        long num1 = 0;
+        long operador = 0;
+        long num2 = 0;
+        long resultado = 0;
         public Form1() {
             InitializeComponent();
+            this.KeyPreview = true;
+            this.KeyPress += new KeyPressEventHandler(Form1_KeyPress);
+            this.KeyDown += new KeyEventHandler(Form1_KeyDown);
+            this.KeyUp += new KeyEventHandler(Form1_KeyUp);
+
+            hiddenTextBox = new TextBox();
+            hiddenTextBox.Size = new System.Drawing.Size(0, 0);
+            hiddenTextBox.Location = new System.Drawing.Point(-10, -10);
+            this.Controls.Add(hiddenTextBox);
         }
+
+        private void Form1_KeyUp(object? sender, KeyEventArgs e) {
+            hiddenTextBox.Focus();
+        }
+
+
+        private void Form1_KeyPress(object sender, KeyPressEventArgs e) {
+            switch (e.KeyChar) {
+                case '0':
+                    button16_Click(button16, EventArgs.Empty);
+                    break;
+                case '1':
+                    button1_Click(button1, EventArgs.Empty);
+                    break;
+                case '2':
+                    button2_Click(button2, EventArgs.Empty);
+                    break;
+                case '3':
+                    button3_Click(button3, EventArgs.Empty);
+                    break;
+                case '4':
+                    button4_Click(button4, EventArgs.Empty);
+                    break;
+                case '5':
+                    button5_Click(button5, EventArgs.Empty);
+                    break;
+                case '6':
+                    button6_Click(button6, EventArgs.Empty);
+                    break;
+                case '7':
+                    button7_Click(button7, EventArgs.Empty);
+                    break;
+                case '8':
+                    button8_Click(button8, EventArgs.Empty);
+                    break;
+                case '9':
+                    button9_Click(button9, EventArgs.Empty);
+                    break;
+                case '/':
+                    button13_Click(button13, EventArgs.Empty);
+                    break;
+                case '*':
+                    button12_Click(button12, EventArgs.Empty);
+                    break;
+                case '-':
+                    button11_Click(button11, EventArgs.Empty);
+                    break;
+                case '+':
+                    button10_Click(button10, EventArgs.Empty);
+                    break;
+                case '%':
+                    button14_Click(button14, EventArgs.Empty);
+                    break;
+            }
+        }
+        private void Form1_KeyDown(object sender, KeyEventArgs e) {
+            if (e.KeyCode == Keys.Enter) {
+                
+                button15_Click(button15, EventArgs.Empty);
+                return;
+            }
+        }
+
 
         private void button1_Click(object sender, EventArgs e) {
             if (resultado != 0) {

@@ -1,0 +1,5 @@
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja04\Ejercicio04\Ejercicio04\obj\Debug\net8.0\Ejercicio04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja04\Ejercicio04\Ejercicio04\obj\Debug\net8.0\Ejercicio04.AssemblyInfoInputs.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja04\Ejercicio04\Ejercicio04\obj\Debug\net8.0\Ejercicio04.AssemblyInfo.cs
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja04\Ejercicio04\Ejercicio04\obj\Debug\net8.0\Ejercicio04.csproj.CoreCompileInputs.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja04\Ejercicio04\Ejercicio04\obj\Debug\net8.0\Ejercicio04.sourcelink.json

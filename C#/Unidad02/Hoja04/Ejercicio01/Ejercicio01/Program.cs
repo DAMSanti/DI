@@ -52,7 +52,13 @@
 class Program {
      public static void Main(string[] args) {
         Autobus bus = new Autobus(10);
-        Autobus buses = bus[3];
+        Console.WriteLine("Introduzca el numero de plaza que quiere comprobar: ");
+        int plaza = Convert.ToInt32(Console.ReadLine());
+        foreach (int plazas in bus.PlazasLibres) {
+            Console.WriteLine(plazas);
+        }
+        Console.WriteLine(bus.Ocupadas);
+        Autobus buses = bus[plaza];
         if (buses != null) {
             Console.WriteLine("Plaza ocupada");
         } else {
