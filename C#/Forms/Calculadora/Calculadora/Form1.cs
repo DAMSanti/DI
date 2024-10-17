@@ -17,6 +17,7 @@ namespace Calculadora {
             hiddenTextBox = new TextBox();
             hiddenTextBox.Size = new System.Drawing.Size(0, 0);
             hiddenTextBox.Location = new System.Drawing.Point(-10, -10);
+
             this.Controls.Add(hiddenTextBox);
         }
 
@@ -76,12 +77,10 @@ namespace Calculadora {
         }
         private void Form1_KeyDown(object sender, KeyEventArgs e) {
             if (e.KeyCode == Keys.Enter) {
-                
                 button15_Click(button15, EventArgs.Empty);
                 return;
             }
         }
-
 
         private void button1_Click(object sender, EventArgs e) {
             if (resultado != 0) {

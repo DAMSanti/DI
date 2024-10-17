@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja06\\Ejercicio02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3F880E-DC48-4E50-9789-89A2CF0E5CC6}|Ejercicio02\\Ejercicio02.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja06\\ejercicio02\\ejercicio02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3F880E-DC48-4E50-9789-89A2CF0E5CC6}|Ejercicio02\\Ejercicio02.csproj|solutionrelative:ejercicio02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3F880E-DC48-4E50-9789-89A2CF0E5CC6}|Ejercicio02\\Ejercicio02.csproj|D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja06\\Ejercicio02\\ejercicio02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF3F880E-DC48-4E50-9789-89A2CF0E5CC6}|Ejercicio02\\Ejercicio02.csproj|solutionrelative:ejercicio02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3F880E-DC48-4E50-9789-89A2CF0E5CC6}|Ejercicio02\\Ejercicio02.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja06\\ejercicio02\\ejercicio02\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3F880E-DC48-4E50-9789-89A2CF0E5CC6}|Ejercicio02\\Ejercicio02.csproj|solutionrelative:ejercicio02\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3F880E-DC48-4E50-9789-89A2CF0E5CC6}|Ejercicio02\\Ejercicio02.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja06\\ejercicio02\\ejercicio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3F880E-DC48-4E50-9789-89A2CF0E5CC6}|Ejercicio02\\Ejercicio02.csproj|solutionrelative:ejercicio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja06\\Ejercicio02\\Ejercicio02\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio02\\Form1.cs",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja06\\Ejercicio02\\Ejercicio02\\Form1.cs [Design]",
+              "RelativeToolTip": "Ejercicio02\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:21:40.421Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja06\\Ejercicio02\\Ejercicio02\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Ejercicio02\\Form1.Designer.cs",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja06\\Ejercicio02\\Ejercicio02\\Form1.Designer.cs",
+              "RelativeToolTip": "Ejercicio02\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:21:22.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja06\\Ejercicio02\\Ejercicio02\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio02\\Program.cs",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja06\\Ejercicio02\\Ejercicio02\\Program.cs",
+              "RelativeToolTip": "Ejercicio02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:21:15.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja06\\Ejercicio02\\Ejercicio02\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio02\\Form1.cs",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja06\\Ejercicio02\\Ejercicio02\\Form1.cs",
+              "RelativeToolTip": "Ejercicio02\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:20:41.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

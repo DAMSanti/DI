@@ -1,0 +1,17 @@
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\EjemploWForms\EjemploWForms\bin\Debug\net8.0-windows\EjemploWForms.exe
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\EjemploWForms\EjemploWForms\bin\Debug\net8.0-windows\EjemploWForms.deps.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\EjemploWForms\EjemploWForms\bin\Debug\net8.0-windows\EjemploWForms.runtimeconfig.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\EjemploWForms\EjemploWForms\bin\Debug\net8.0-windows\EjemploWForms.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\EjemploWForms\EjemploWForms\bin\Debug\net8.0-windows\EjemploWForms.pdb
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\EjemploWForms\EjemploWForms\obj\Debug\net8.0-windows\EjemploWForms.Form1.resources
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\EjemploWForms\EjemploWForms\obj\Debug\net8.0-windows\EjemploWForms.csproj.GenerateResource.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\EjemploWForms\EjemploWForms\obj\Debug\net8.0-windows\EjemploWForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\EjemploWForms\EjemploWForms\obj\Debug\net8.0-windows\EjemploWForms.AssemblyInfoInputs.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\EjemploWForms\EjemploWForms\obj\Debug\net8.0-windows\EjemploWForms.AssemblyInfo.cs
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\EjemploWForms\EjemploWForms\obj\Debug\net8.0-windows\EjemploWForms.csproj.CoreCompileInputs.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\EjemploWForms\EjemploWForms\obj\Debug\net8.0-windows\EjemploWForms.sourcelink.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\EjemploWForms\EjemploWForms\obj\Debug\net8.0-windows\EjemploWForms.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\EjemploWForms\EjemploWForms\obj\Debug\net8.0-windows\refint\EjemploWForms.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\EjemploWForms\EjemploWForms\obj\Debug\net8.0-windows\EjemploWForms.pdb
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\EjemploWForms\EjemploWForms\obj\Debug\net8.0-windows\EjemploWForms.genruntimeconfig.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\EjemploWForms\EjemploWForms\obj\Debug\net8.0-windows\ref\EjemploWForms.dll
