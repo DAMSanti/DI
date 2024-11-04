@@ -27,18 +27,18 @@
             archivoToolStripMenuItem = new ToolStripMenuItem();
             nuevoToolStripMenuItem = new ToolStripMenuItem();
             salirToolStripMenuItem = new ToolStripMenuItem();
-            label1 = new Label();
-            label2 = new Label();
-            label3 = new Label();
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
-            textBox3 = new TextBox();
-            button1 = new Button();
-            button2 = new Button();
-            button3 = new Button();
-            groupBox1 = new GroupBox();
+            lblNombre = new Label();
+            lvlTelefono = new Label();
+            lvlEmail = new Label();
+            txtNombre = new TextBox();
+            txtTelefono = new TextBox();
+            txtEmail = new TextBox();
+            btnAñadir = new Button();
+            btnMostrar = new Button();
+            btnEliminar = new Button();
+            grpDatos = new GroupBox();
             menuStrip1.SuspendLayout();
-            groupBox1.SuspendLayout();
+            grpDatos.SuspendLayout();
             SuspendLayout();
             // 
             // menuStrip1
@@ -60,122 +60,129 @@
             // nuevoToolStripMenuItem
             // 
             nuevoToolStripMenuItem.Name = "nuevoToolStripMenuItem";
-            nuevoToolStripMenuItem.Size = new Size(180, 22);
+            nuevoToolStripMenuItem.ShortcutKeys = Keys.Control | Keys.N;
+            nuevoToolStripMenuItem.Size = new Size(152, 22);
             nuevoToolStripMenuItem.Text = "Nuevo";
+            nuevoToolStripMenuItem.Click += nuevoToolStripMenuItem_Click;
             // 
             // salirToolStripMenuItem
             // 
             salirToolStripMenuItem.Name = "salirToolStripMenuItem";
-            salirToolStripMenuItem.Size = new Size(180, 22);
+            salirToolStripMenuItem.ShortcutKeys = Keys.Control | Keys.Q;
+            salirToolStripMenuItem.Size = new Size(152, 22);
             salirToolStripMenuItem.Text = "Salir";
+            salirToolStripMenuItem.Click += salirToolStripMenuItem_Click;
             // 
-            // label1
+            // lblNombre
             // 
-            label1.AutoSize = true;
-            label1.Location = new Point(32, 32);
-            label1.Name = "label1";
-            label1.Size = new Size(38, 15);
-            label1.TabIndex = 1;
-            label1.Text = "label1";
+            lblNombre.AutoSize = true;
+            lblNombre.Location = new Point(32, 32);
+            lblNombre.Name = "lblNombre";
+            lblNombre.Size = new Size(51, 15);
+            lblNombre.TabIndex = 1;
+            lblNombre.Text = "Nombre";
             // 
-            // label2
+            // lvlTelefono
             // 
-            label2.AutoSize = true;
-            label2.Location = new Point(32, 66);
-            label2.Name = "label2";
-            label2.Size = new Size(38, 15);
-            label2.TabIndex = 2;
-            label2.Text = "label2";
+            lvlTelefono.AutoSize = true;
+            lvlTelefono.Location = new Point(32, 66);
+            lvlTelefono.Name = "lvlTelefono";
+            lvlTelefono.Size = new Size(52, 15);
+            lvlTelefono.TabIndex = 2;
+            lvlTelefono.Text = "Telefono";
             // 
-            // label3
+            // lvlEmail
             // 
-            label3.AutoSize = true;
-            label3.Location = new Point(32, 99);
-            label3.Name = "label3";
-            label3.Size = new Size(38, 15);
-            label3.TabIndex = 3;
-            label3.Text = "label3";
+            lvlEmail.AutoSize = true;
+            lvlEmail.Location = new Point(32, 99);
+            lvlEmail.Name = "lvlEmail";
+            lvlEmail.Size = new Size(36, 15);
+            lvlEmail.TabIndex = 3;
+            lvlEmail.Text = "Email";
             // 
-            // textBox1
+            // txtNombre
             // 
-            textBox1.Location = new Point(122, 29);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(330, 23);
-            textBox1.TabIndex = 4;
+            txtNombre.Location = new Point(122, 29);
+            txtNombre.Name = "txtNombre";
+            txtNombre.Size = new Size(330, 23);
+            txtNombre.TabIndex = 4;
             // 
-            // textBox2
+            // txtTelefono
             // 
-            textBox2.Location = new Point(134, 104);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(330, 23);
-            textBox2.TabIndex = 5;
+            txtTelefono.Location = new Point(134, 104);
+            txtTelefono.Name = "txtTelefono";
+            txtTelefono.Size = new Size(330, 23);
+            txtTelefono.TabIndex = 5;
             // 
-            // textBox3
+            // txtEmail
             // 
-            textBox3.Location = new Point(134, 137);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(330, 23);
-            textBox3.TabIndex = 6;
+            txtEmail.Location = new Point(134, 137);
+            txtEmail.Name = "txtEmail";
+            txtEmail.Size = new Size(330, 23);
+            txtEmail.TabIndex = 6;
             // 
-            // button1
+            // btnAñadir
             // 
-            button1.Location = new Point(56, 139);
-            button1.Name = "button1";
-            button1.Size = new Size(75, 23);
-            button1.TabIndex = 7;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
+            btnAñadir.Location = new Point(56, 139);
+            btnAñadir.Name = "btnAñadir";
+            btnAñadir.Size = new Size(75, 23);
+            btnAñadir.TabIndex = 7;
+            btnAñadir.Text = "Añadir";
+            btnAñadir.UseVisualStyleBackColor = true;
+            btnAñadir.Click += btnAñadir_Click;
             // 
-            // button2
+            // btnMostrar
             // 
-            button2.Location = new Point(204, 139);
-            button2.Name = "button2";
-            button2.Size = new Size(75, 23);
-            button2.TabIndex = 8;
-            button2.Text = "button2";
-            button2.UseVisualStyleBackColor = true;
+            btnMostrar.Location = new Point(204, 139);
+            btnMostrar.Name = "btnMostrar";
+            btnMostrar.Size = new Size(75, 23);
+            btnMostrar.TabIndex = 8;
+            btnMostrar.Text = "Mostrar";
+            btnMostrar.UseVisualStyleBackColor = true;
+            btnMostrar.Click += btnMostrar_Click;
             // 
-            // button3
+            // btnEliminar
             // 
-            button3.Location = new Point(377, 139);
-            button3.Name = "button3";
-            button3.Size = new Size(75, 23);
-            button3.TabIndex = 9;
-            button3.Text = "button3";
-            button3.UseVisualStyleBackColor = true;
+            btnEliminar.Location = new Point(377, 139);
+            btnEliminar.Name = "btnEliminar";
+            btnEliminar.Size = new Size(75, 23);
+            btnEliminar.TabIndex = 9;
+            btnEliminar.Text = "Eliminar";
+            btnEliminar.UseVisualStyleBackColor = true;
+            btnEliminar.Click += btnEliminar_Click;
             // 
-            // groupBox1
+            // grpDatos
             // 
-            groupBox1.Controls.Add(button3);
-            groupBox1.Controls.Add(textBox1);
-            groupBox1.Controls.Add(button2);
-            groupBox1.Controls.Add(label1);
-            groupBox1.Controls.Add(button1);
-            groupBox1.Controls.Add(label2);
-            groupBox1.Controls.Add(label3);
-            groupBox1.Location = new Point(12, 41);
-            groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(470, 168);
-            groupBox1.TabIndex = 10;
-            groupBox1.TabStop = false;
-            groupBox1.Text = "groupBox1";
+            grpDatos.Controls.Add(btnEliminar);
+            grpDatos.Controls.Add(txtNombre);
+            grpDatos.Controls.Add(btnMostrar);
+            grpDatos.Controls.Add(lblNombre);
+            grpDatos.Controls.Add(btnAñadir);
+            grpDatos.Controls.Add(lvlTelefono);
+            grpDatos.Controls.Add(lvlEmail);
+            grpDatos.Location = new Point(12, 41);
+            grpDatos.Name = "grpDatos";
+            grpDatos.Size = new Size(470, 168);
+            grpDatos.TabIndex = 10;
+            grpDatos.TabStop = false;
+            grpDatos.Text = "Datos Personales";
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(494, 225);
-            Controls.Add(textBox3);
-            Controls.Add(textBox2);
+            Controls.Add(txtEmail);
+            Controls.Add(txtTelefono);
             Controls.Add(menuStrip1);
-            Controls.Add(groupBox1);
+            Controls.Add(grpDatos);
             MainMenuStrip = menuStrip1;
             Name = "Form1";
             Text = "Form1";
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
-            groupBox1.ResumeLayout(false);
-            groupBox1.PerformLayout();
+            grpDatos.ResumeLayout(false);
+            grpDatos.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -186,15 +193,15 @@
         private ToolStripMenuItem archivoToolStripMenuItem;
         private ToolStripMenuItem nuevoToolStripMenuItem;
         private ToolStripMenuItem salirToolStripMenuItem;
-        private Label label1;
-        private Label label2;
-        private Label label3;
-        private TextBox textBox1;
-        private TextBox textBox2;
-        private TextBox textBox3;
-        private Button button1;
-        private Button button2;
-        private Button button3;
-        private GroupBox groupBox1;
+        private Label lblNombre;
+        private Label lvlTelefono;
+        private Label lvlEmail;
+        private TextBox txtNombre;
+        private TextBox txtTelefono;
+        private TextBox txtEmail;
+        private Button btnAñadir;
+        private Button btnMostrar;
+        private Button btnEliminar;
+        private GroupBox grpDatos;
     }
 }

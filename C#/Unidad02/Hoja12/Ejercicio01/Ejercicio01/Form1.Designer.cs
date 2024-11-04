@@ -44,6 +44,7 @@
             // lstNumeros
             // 
             lstNumeros.Location = new Point(12, 12);
+            lstNumeros.MultiSelect = false;
             lstNumeros.Name = "lstNumeros";
             lstNumeros.Size = new Size(371, 271);
             lstNumeros.TabIndex = 0;
