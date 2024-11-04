@@ -1,0 +1,17 @@
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\Listas\Listas\bin\Debug\net8.0-windows\Listas.exe
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\Listas\Listas\bin\Debug\net8.0-windows\Listas.deps.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\Listas\Listas\bin\Debug\net8.0-windows\Listas.runtimeconfig.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\Listas\Listas\bin\Debug\net8.0-windows\Listas.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\Listas\Listas\bin\Debug\net8.0-windows\Listas.pdb
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\Listas\Listas\obj\Debug\net8.0-windows\Listas.Form1.resources
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\Listas\Listas\obj\Debug\net8.0-windows\Listas.csproj.GenerateResource.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\Listas\Listas\obj\Debug\net8.0-windows\Listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\Listas\Listas\obj\Debug\net8.0-windows\Listas.AssemblyInfoInputs.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\Listas\Listas\obj\Debug\net8.0-windows\Listas.AssemblyInfo.cs
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\Listas\Listas\obj\Debug\net8.0-windows\Listas.csproj.CoreCompileInputs.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\Listas\Listas\obj\Debug\net8.0-windows\Listas.sourcelink.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\Listas\Listas\obj\Debug\net8.0-windows\Listas.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\Listas\Listas\obj\Debug\net8.0-windows\refint\Listas.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\Listas\Listas\obj\Debug\net8.0-windows\Listas.pdb
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\Listas\Listas\obj\Debug\net8.0-windows\Listas.genruntimeconfig.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\AplicacionPrueba\Listas\Listas\obj\Debug\net8.0-windows\ref\Listas.dll
