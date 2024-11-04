@@ -1,0 +1,17 @@
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja08\Ejercicio08\Ejercicio08\bin\Debug\net8.0-windows\Ejercicio08.exe
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja08\Ejercicio08\Ejercicio08\bin\Debug\net8.0-windows\Ejercicio08.deps.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja08\Ejercicio08\Ejercicio08\bin\Debug\net8.0-windows\Ejercicio08.runtimeconfig.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja08\Ejercicio08\Ejercicio08\bin\Debug\net8.0-windows\Ejercicio08.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja08\Ejercicio08\Ejercicio08\bin\Debug\net8.0-windows\Ejercicio08.pdb
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja08\Ejercicio08\Ejercicio08\obj\Debug\net8.0-windows\Ejercicio08.Form1.resources
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja08\Ejercicio08\Ejercicio08\obj\Debug\net8.0-windows\Ejercicio08.csproj.GenerateResource.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja08\Ejercicio08\Ejercicio08\obj\Debug\net8.0-windows\Ejercicio08.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja08\Ejercicio08\Ejercicio08\obj\Debug\net8.0-windows\Ejercicio08.AssemblyInfoInputs.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja08\Ejercicio08\Ejercicio08\obj\Debug\net8.0-windows\Ejercicio08.AssemblyInfo.cs
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja08\Ejercicio08\Ejercicio08\obj\Debug\net8.0-windows\Ejercicio08.csproj.CoreCompileInputs.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja08\Ejercicio08\Ejercicio08\obj\Debug\net8.0-windows\Ejercicio08.sourcelink.json
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja08\Ejercicio08\Ejercicio08\obj\Debug\net8.0-windows\Ejercicio08.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja08\Ejercicio08\Ejercicio08\obj\Debug\net8.0-windows\refint\Ejercicio08.dll
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja08\Ejercicio08\Ejercicio08\obj\Debug\net8.0-windows\Ejercicio08.pdb
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja08\Ejercicio08\Ejercicio08\obj\Debug\net8.0-windows\Ejercicio08.genruntimeconfig.cache
+D:\Usuarios\DAM2\IdeaProjects\DI\C#\Unidad02\Hoja08\Ejercicio08\Ejercicio08\obj\Debug\net8.0-windows\ref\Ejercicio08.dll

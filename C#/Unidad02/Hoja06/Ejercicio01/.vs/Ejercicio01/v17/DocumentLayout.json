@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja06\\Ejercicio01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{58492B68-C662-493B-8DB5-E69C14187926}|Ejercicio01\\Ejercicio01.csproj|D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja06\\Ejercicio01\\ejercicio01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58492B68-C662-493B-8DB5-E69C14187926}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{58492B68-C662-493B-8DB5-E69C14187926}|Ejercicio01\\Ejercicio01.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja06\\ejercicio01\\ejercicio01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58492B68-C662-493B-8DB5-E69C14187926}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{58492B68-C662-493B-8DB5-E69C14187926}|Ejercicio01\\Ejercicio01.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja06\\ejercicio01\\ejercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58492B68-C662-493B-8DB5-E69C14187926}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58492B68-C662-493B-8DB5-E69C14187926}|Ejercicio01\\Ejercicio01.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja06\\ejercicio01\\ejercicio01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{58492B68-C662-493B-8DB5-E69C14187926}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja06\\Ejercicio01\\Ejercicio01\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Ejercicio01\\Form1.Designer.cs",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja06\\Ejercicio01\\Ejercicio01\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio01\\Program.cs",
@@ -51,12 +51,11 @@
               "RelativeToolTip": "Ejercicio01\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T14:02:14.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T14:02:14.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja06\\Ejercicio01\\Ejercicio01\\Form1.cs",
               "RelativeDocumentMoniker": "Ejercicio01\\Form1.cs",
@@ -69,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja06\\Ejercicio01\\Ejercicio01\\Form1.cs",
               "RelativeDocumentMoniker": "Ejercicio01\\Form1.cs",
