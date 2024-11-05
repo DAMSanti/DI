@@ -1,0 +1,17 @@
+G:\Tareas\DAM2\DI\C#\Unidad02\Ejercicio09\Ejercicio09\bin\Debug\net8.0-windows\Ejercicio09.exe
+G:\Tareas\DAM2\DI\C#\Unidad02\Ejercicio09\Ejercicio09\bin\Debug\net8.0-windows\Ejercicio09.deps.json
+G:\Tareas\DAM2\DI\C#\Unidad02\Ejercicio09\Ejercicio09\bin\Debug\net8.0-windows\Ejercicio09.runtimeconfig.json
+G:\Tareas\DAM2\DI\C#\Unidad02\Ejercicio09\Ejercicio09\bin\Debug\net8.0-windows\Ejercicio09.dll
+G:\Tareas\DAM2\DI\C#\Unidad02\Ejercicio09\Ejercicio09\bin\Debug\net8.0-windows\Ejercicio09.pdb
+G:\Tareas\DAM2\DI\C#\Unidad02\Ejercicio09\Ejercicio09\obj\Debug\net8.0-windows\Ejercicio09.Form1.resources
+G:\Tareas\DAM2\DI\C#\Unidad02\Ejercicio09\Ejercicio09\obj\Debug\net8.0-windows\Ejercicio09.csproj.GenerateResource.cache
+G:\Tareas\DAM2\DI\C#\Unidad02\Ejercicio09\Ejercicio09\obj\Debug\net8.0-windows\Ejercicio09.GeneratedMSBuildEditorConfig.editorconfig
+G:\Tareas\DAM2\DI\C#\Unidad02\Ejercicio09\Ejercicio09\obj\Debug\net8.0-windows\Ejercicio09.AssemblyInfoInputs.cache
+G:\Tareas\DAM2\DI\C#\Unidad02\Ejercicio09\Ejercicio09\obj\Debug\net8.0-windows\Ejercicio09.AssemblyInfo.cs
+G:\Tareas\DAM2\DI\C#\Unidad02\Ejercicio09\Ejercicio09\obj\Debug\net8.0-windows\Ejercicio09.csproj.CoreCompileInputs.cache
+G:\Tareas\DAM2\DI\C#\Unidad02\Ejercicio09\Ejercicio09\obj\Debug\net8.0-windows\Ejercicio09.sourcelink.json
+G:\Tareas\DAM2\DI\C#\Unidad02\Ejercicio09\Ejercicio09\obj\Debug\net8.0-windows\Ejercicio09.dll
+G:\Tareas\DAM2\DI\C#\Unidad02\Ejercicio09\Ejercicio09\obj\Debug\net8.0-windows\refint\Ejercicio09.dll
+G:\Tareas\DAM2\DI\C#\Unidad02\Ejercicio09\Ejercicio09\obj\Debug\net8.0-windows\Ejercicio09.pdb
+G:\Tareas\DAM2\DI\C#\Unidad02\Ejercicio09\Ejercicio09\obj\Debug\net8.0-windows\Ejercicio09.genruntimeconfig.cache
+G:\Tareas\DAM2\DI\C#\Unidad02\Ejercicio09\Ejercicio09\obj\Debug\net8.0-windows\ref\Ejercicio09.dll
