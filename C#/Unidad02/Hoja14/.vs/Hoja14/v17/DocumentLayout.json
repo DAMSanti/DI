@@ -23,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\listapeliculasfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja14\\hoja14\\listalibrofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\hoja14\\listalibrofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\listalibrofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -31,7 +31,7 @@
       "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja14\\hoja14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\hoja14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -39,7 +39,7 @@
       "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\pelisfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja14\\hoja14\\pelisfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\hoja14\\pelisfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\pelisfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -116,8 +116,7 @@
               "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\ListaLibroFrm.cs [Dise\u00F1o]",
               "RelativeToolTip": "Hoja14\\ListaLibroFrm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:50:46.847Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-11T15:50:46.847Z"
             },
             {
               "$type": "Document",
@@ -142,8 +141,7 @@
               "RelativeToolTip": "Hoja14\\ListaLibroFrm.Designer.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAowDsAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:59:11.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T15:59:11.019Z"
             },
             {
               "$type": "Document",
@@ -154,8 +152,7 @@
               "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Hoja14\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:53:38.92Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-11T15:53:38.92Z"
             },
             {
               "$type": "Document",
@@ -179,8 +176,7 @@
               "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\PelisFrm.cs [Dise\u00F1o]",
               "RelativeToolTip": "Hoja14\\PelisFrm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T16:21:20.888Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-11T16:21:20.888Z"
             },
             {
               "$type": "Document",
@@ -192,8 +188,7 @@
               "RelativeToolTip": "Hoja14\\LibroFrm.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAowCwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:00:10.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T15:00:10.459Z"
             }
           ]
         }
