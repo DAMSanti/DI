@@ -30,20 +30,17 @@ namespace Hoja14 {
         }
 
         private void btnAceptar_Click(object sender, EventArgs e) {
-            if (pelicula == null) {
+            if (estado > 0 ) {
+                this.DialogResult = DialogResult.Cancel;
+                return;
+            } else {
                 this.pelicula = new Pelicula();
                 pelicula.Titulo = txtTitulo.Text;
                 pelicula.Anno = int.Parse(txtAnno.Text);
                 pelicula.Genero = txtGenero.Text;
                 ListaPeliculasFrm.peliculas.Add(pelicula);
                 this.DialogResult = DialogResult.OK;
-            } else {
-                pelicula.Titulo = txtTitulo.Text;
-                pelicula.Anno = int.Parse(txtAnno.Text);
-                pelicula.Genero = txtGenero.Text;
-                this.DialogResult = DialogResult.OK;
             }
-
         }
 
         private void btnCancelar_Click(object sender, EventArgs e) {

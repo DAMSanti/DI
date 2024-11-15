@@ -51,7 +51,7 @@
             TsmiNuevo.Name = "TsmiNuevo";
             TsmiNuevo.Size = new Size(180, 22);
             TsmiNuevo.Text = "Nuevo";
-            TsmiNuevo.Click += TsmiNuevo_Click;
+            //TsmiNuevo.Click += TsmiNuevo_Click;
             // 
             // lstPelis
             // 

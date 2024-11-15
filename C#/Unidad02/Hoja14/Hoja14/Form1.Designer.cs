@@ -23,6 +23,7 @@
         ///  the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent() {
+            components = new System.ComponentModel.Container();
             StpMenu = new MenuStrip();
             TsmiArchivo = new ToolStripMenuItem();
             tsmlSalir = new ToolStripMenuItem();
@@ -33,6 +34,7 @@
             TsmiCascada = new ToolStripMenuItem();
             TsmiHorizontal = new ToolStripMenuItem();
             TsmiVertical = new ToolStripMenuItem();
+            toolTip1 = new ToolTip(components);
             StpMenu.SuspendLayout();
             SuspendLayout();
             // 
@@ -56,7 +58,7 @@
             // tsmlSalir
             // 
             tsmlSalir.Name = "tsmlSalir";
-            tsmlSalir.Size = new Size(96, 22);
+            tsmlSalir.Size = new Size(180, 22);
             tsmlSalir.Text = "Salir";
             // 
             // TsmiMantenimiento
@@ -90,19 +92,19 @@
             // TsmiCascada
             // 
             TsmiCascada.Name = "TsmiCascada";
-            TsmiCascada.Size = new Size(177, 22);
+            TsmiCascada.Size = new Size(180, 22);
             TsmiCascada.Text = "Cascada";
             // 
             // TsmiHorizontal
             // 
             TsmiHorizontal.Name = "TsmiHorizontal";
-            TsmiHorizontal.Size = new Size(177, 22);
+            TsmiHorizontal.Size = new Size(180, 22);
             TsmiHorizontal.Text = "Mosaico Horizontal";
             // 
             // TsmiVertical
             // 
             TsmiVertical.Name = "TsmiVertical";
-            TsmiVertical.Size = new Size(177, 22);
+            TsmiVertical.Size = new Size(180, 22);
             TsmiVertical.Text = "Mosaico Vertical";
             // 
             // FrmCatalogo
@@ -133,5 +135,6 @@
         private ToolStripMenuItem TsmiCascada;
         private ToolStripMenuItem TsmiHorizontal;
         private ToolStripMenuItem TsmiVertical;
+        private ToolTip toolTip1;
     }
 }

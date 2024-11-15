@@ -3,48 +3,60 @@
   "WorkspaceRootPath": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja14\\hoja14\\listapeliculasfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\listapeliculasfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja14\\hoja14\\listapeliculasfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\listapeliculasfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja14\\hoja14\\listalibrofrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\listalibrofrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja14\\hoja14\\listalibrofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\listalibrofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja14\\hoja14\\listapeliculasfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\listapeliculasfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\hoja14\\listalibrofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\listalibrofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja14\\hoja14\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja14\\hoja14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\hoja14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja14\\hoja14\\pelisfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\pelisfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\hoja14\\listapeliculasfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\listapeliculasfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja14\\hoja14\\listalibrofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\listalibrofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja14\\hoja14\\librofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\librofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja14\\hoja14\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\hoja14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\hoja14\\pelisfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\pelisfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja14\\hoja14\\librofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\librofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\hoja14\\librofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\librofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja14\\hoja14\\listalibrofrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\listalibrofrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\hoja14\\listalibrofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\listalibrofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\unidad02\\hoja14\\hoja14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2132F2-623A-4607-A9AE-730B78149645}|Hoja14\\Hoja14.csproj|solutionrelative:hoja14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,118 +66,122 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ListaPeliculasFrm.Designer.cs",
-              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\ListaPeliculasFrm.Designer.cs",
-              "RelativeDocumentMoniker": "Hoja14\\ListaPeliculasFrm.Designer.cs",
-              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\ListaPeliculasFrm.Designer.cs",
-              "RelativeToolTip": "Hoja14\\ListaPeliculasFrm.Designer.cs",
+              "DocumentIndex": 7,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\Libro.cs",
+              "RelativeDocumentMoniker": "Hoja14\\Libro.cs",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\Libro.cs",
+              "RelativeToolTip": "Hoja14\\Libro.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T16:30:08.607Z",
+              "WhenOpened": "2024-11-15T15:02:46.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ListaPeliculasFrm.cs",
-              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\ListaPeliculasFrm.cs",
-              "RelativeDocumentMoniker": "Hoja14\\ListaPeliculasFrm.cs",
-              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\ListaPeliculasFrm.cs",
-              "RelativeToolTip": "Hoja14\\ListaPeliculasFrm.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAwwF0AAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Negocio.cs",
+              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\Negocio.cs",
+              "RelativeDocumentMoniker": "Hoja14\\Negocio.cs",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\Negocio.cs",
+              "RelativeToolTip": "Hoja14\\Negocio.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:54:17.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ListaLibroFrm.cs",
-              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\ListaLibroFrm.cs",
-              "RelativeDocumentMoniker": "Hoja14\\ListaLibroFrm.cs",
-              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\ListaLibroFrm.cs",
-              "RelativeToolTip": "Hoja14\\ListaLibroFrm.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAIwFQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:54:15.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ListaPeliculasFrm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\ListaPeliculasFrm.cs",
-              "RelativeDocumentMoniker": "Hoja14\\ListaPeliculasFrm.cs",
-              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\ListaPeliculasFrm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Hoja14\\ListaPeliculasFrm.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:50:27.953Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ListaLibroFrm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\ListaLibroFrm.cs",
-              "RelativeDocumentMoniker": "Hoja14\\ListaLibroFrm.cs",
-              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\ListaLibroFrm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Hoja14\\ListaLibroFrm.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:50:46.847Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\Form1.cs",
-              "RelativeDocumentMoniker": "Hoja14\\Form1.cs",
-              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\Form1.cs",
-              "RelativeToolTip": "Hoja14\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:53:30.676Z",
+              "WhenOpened": "2024-11-15T14:56:44.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ListaLibroFrm.Designer.cs",
-              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\ListaLibroFrm.Designer.cs",
-              "RelativeDocumentMoniker": "Hoja14\\ListaLibroFrm.Designer.cs",
-              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\ListaLibroFrm.Designer.cs",
-              "RelativeToolTip": "Hoja14\\ListaLibroFrm.Designer.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAowDsAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:59:11.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form1.cs [Dise\u00F1o]",
+              "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\Form1.cs",
               "RelativeDocumentMoniker": "Hoja14\\Form1.cs",
-              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Hoja14\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\Form1.cs",
+              "RelativeToolTip": "Hoja14\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:53:38.92Z"
+              "WhenOpened": "2024-11-15T14:46:07.485Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "PelisFrm.cs",
               "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\PelisFrm.cs",
               "RelativeDocumentMoniker": "Hoja14\\PelisFrm.cs",
               "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\PelisFrm.cs",
               "RelativeToolTip": "Hoja14\\PelisFrm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T16:20:38.43Z",
+              "WhenOpened": "2024-11-15T14:17:01.288Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaPeliculasFrm.cs",
+              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\ListaPeliculasFrm.cs",
+              "RelativeDocumentMoniker": "Hoja14\\ListaPeliculasFrm.cs",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\ListaPeliculasFrm.cs",
+              "RelativeToolTip": "Hoja14\\ListaPeliculasFrm.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowD8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:16:49.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibroFrm.cs",
+              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\LibroFrm.cs",
+              "RelativeDocumentMoniker": "Hoja14\\LibroFrm.cs",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\LibroFrm.cs",
+              "RelativeToolTip": "Hoja14\\LibroFrm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:10:46.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListaLibroFrm.cs",
+              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\ListaLibroFrm.cs",
+              "RelativeDocumentMoniker": "Hoja14\\ListaLibroFrm.cs",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\ListaLibroFrm.cs",
+              "RelativeToolTip": "Hoja14\\ListaLibroFrm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:02:42.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListaLibroFrm.Designer.cs",
+              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\ListaLibroFrm.Designer.cs",
+              "RelativeDocumentMoniker": "Hoja14\\ListaLibroFrm.Designer.cs",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\ListaLibroFrm.Designer.cs",
+              "RelativeToolTip": "Hoja14\\ListaLibroFrm.Designer.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:02:24.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\Program.cs",
+              "RelativeDocumentMoniker": "Hoja14\\Program.cs",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\Program.cs",
+              "RelativeToolTip": "Hoja14\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:55:28.538Z"
             },
             {
               "$type": "Document",
@@ -176,19 +192,55 @@
               "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\PelisFrm.cs [Dise\u00F1o]",
               "RelativeToolTip": "Hoja14\\PelisFrm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T16:21:20.888Z"
+              "WhenOpened": "2024-11-15T13:55:27.718Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListaPeliculasFrm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\ListaPeliculasFrm.cs",
+              "RelativeDocumentMoniker": "Hoja14\\ListaPeliculasFrm.cs",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\ListaPeliculasFrm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Hoja14\\ListaPeliculasFrm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:55:24.731Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListaLibroFrm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\ListaLibroFrm.cs",
+              "RelativeDocumentMoniker": "Hoja14\\ListaLibroFrm.cs",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\ListaLibroFrm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Hoja14\\ListaLibroFrm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:55:23.161Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "LibroFrm.cs",
+              "Title": "LibroFrm.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\LibroFrm.cs",
               "RelativeDocumentMoniker": "Hoja14\\LibroFrm.cs",
-              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\LibroFrm.cs",
-              "RelativeToolTip": "Hoja14\\LibroFrm.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAowCwAAAANAAAA",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\LibroFrm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Hoja14\\LibroFrm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:00:10.459Z"
+              "WhenOpened": "2024-11-15T13:55:21.083Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\Form1.cs",
+              "RelativeDocumentMoniker": "Hoja14\\Form1.cs",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\Unidad02\\Hoja14\\Hoja14\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Hoja14\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:55:03.476Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

@@ -61,8 +61,10 @@
             // 
             // lstLibros
             // 
+            lstLibros.ContextMenuStrip = CmsLibros;
             lstLibros.Dock = DockStyle.Fill;
             lstLibros.FullRowSelect = true;
+            lstLibros.GridLines = true;
             lstLibros.Location = new Point(0, 24);
             lstLibros.MultiSelect = false;
             lstLibros.Name = "lstLibros";

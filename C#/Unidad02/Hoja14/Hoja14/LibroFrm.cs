@@ -30,20 +30,17 @@ namespace Hoja14 {
         }
 
         private void btnAceptar_Click(object sender, EventArgs e) {
-            if (libro == null) {
+            if (estado > 0) {
+                this.DialogResult = DialogResult.Cancel;
+                return;
+            } else { 
                 this.libro = new Libro();
                 libro.Titulo = txtTitulo.Text;
                 libro.Anno = int.Parse(txtAnno.Text);
                 libro.Autor = txtAutor.Text;
                 ListaLibroFrm.libros.Add(libro);
                 this.DialogResult = DialogResult.OK;
-            } else {
-                libro.Titulo = txtTitulo.Text;
-                libro.Anno = int.Parse(txtAnno.Text);
-                libro.Autor = txtAutor.Text;
-                this.DialogResult = DialogResult.OK;
             }
-
         }
 
         private void btnCancelar_Click(object sender, EventArgs e) {
