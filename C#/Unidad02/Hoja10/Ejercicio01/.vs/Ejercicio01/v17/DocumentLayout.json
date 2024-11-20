@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{B0BE55EE-8001-4F91-BCF3-BD85337224B4}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\buscarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0BE55EE-8001-4F91-BCF3-BD85337224B4}|Ejercicio01\\Ejercicio01.csproj|g:\\tareas\\dam2\\di\\c#\\unidad02\\hoja10\\ejercicio01\\ejercicio01\\buscarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B0BE55EE-8001-4F91-BCF3-BD85337224B4}|Ejercicio01\\Ejercicio01.csproj|G:\\Tareas\\DAM2\\DI\\C#\\Unidad02\\Hoja10\\Ejercicio01\\ejercicio01\\buscarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0BE55EE-8001-4F91-BCF3-BD85337224B4}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\buscarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -23,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{B0BE55EE-8001-4F91-BCF3-BD85337224B4}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0BE55EE-8001-4F91-BCF3-BD85337224B4}|Ejercicio01\\Ejercicio01.csproj|g:\\tareas\\dam2\\di\\c#\\unidad02\\hoja10\\ejercicio01\\ejercicio01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B0BE55EE-8001-4F91-BCF3-BD85337224B4}|Ejercicio01\\Ejercicio01.csproj|G:\\Tareas\\DAM2\\DI\\C#\\Unidad02\\Hoja10\\Ejercicio01\\ejercicio01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0BE55EE-8001-4F91-BCF3-BD85337224B4}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Ejercicio01\\BuscarForm.Designer.cs",
               "ToolTip": "G:\\Tareas\\DAM2\\DI\\C#\\Unidad02\\Hoja10\\Ejercicio01\\Ejercicio01\\BuscarForm.Designer.cs",
               "RelativeToolTip": "Ejercicio01\\BuscarForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T19:01:46.586Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "ToolTip": "G:\\Tareas\\DAM2\\DI\\C#\\Unidad02\\Hoja10\\Ejercicio01\\Ejercicio01\\BuscarForm.cs [Dise\u00F1o]",
               "RelativeToolTip": "Ejercicio01\\BuscarForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T18:56:15.866Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-28T18:56:15.866Z"
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "ToolTip": "G:\\Tareas\\DAM2\\DI\\C#\\Unidad02\\Hoja10\\Ejercicio01\\Ejercicio01\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Ejercicio01\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T18:40:12.347Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-28T18:40:12.347Z"
             },
             {
               "$type": "Document",
@@ -96,8 +94,7 @@
               "RelativeToolTip": "Ejercicio01\\Form1.cs",
               "ViewState": "AgIAAH8AAAAAAAAAAAAQwJcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T18:08:31.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T18:08:31.752Z"
             },
             {
               "$type": "Document",
@@ -109,8 +106,7 @@
               "RelativeToolTip": "Ejercicio01\\Form1.Designer.cs",
               "ViewState": "AgIAANIAAAAAAAAAAAAowBQBAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T18:07:57.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T18:07:57.779Z"
             }
           ]
         }
