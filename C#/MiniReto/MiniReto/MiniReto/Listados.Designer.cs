@@ -54,6 +54,9 @@
             // 
             // ribbon
             // 
+            // 
+            // 
+            // 
             this.ribbon.ExpandCollapseItem.Id = 0;
             this.ribbon.Items.AddRange(new DevExpress.XtraBars.BarItem[] {
             this.ribbon.ExpandCollapseItem,
@@ -69,6 +72,7 @@
             this.ribbonPage2});
             this.ribbon.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.repositoryItemImageEdit1});
+            this.ribbon.ShowApplicationButton = DevExpress.Utils.DefaultBoolean.False;
             this.ribbon.ShowToolbarCustomizeItem = false;
             this.ribbon.Size = new System.Drawing.Size(974, 158);
             this.ribbon.StatusBar = this.ribbonStatusBar;
@@ -117,13 +121,11 @@
             // 
             // ribbonPageGroup1
             // 
-            this.ribbonPageGroup1.ItemLinks.Add(this.barButtonItem1);
             this.ribbonPageGroup1.Name = "ribbonPageGroup1";
             this.ribbonPageGroup1.Text = "Alumnos";
             // 
             // barButtonItem1
             // 
-            this.barButtonItem1.Caption = "";
             this.barButtonItem1.Id = 1;
             this.barButtonItem1.ImageOptions.Image = global::MiniReto.Properties.Resources.alumnoBitMap;
             this.barButtonItem1.ImageOptions.LargeImage = global::MiniReto.Properties.Resources.alumnoBitMap;
@@ -131,13 +133,11 @@
             // 
             // ribbonPageGroup2
             // 
-            this.ribbonPageGroup2.ItemLinks.Add(this.barButtonItem2);
             this.ribbonPageGroup2.Name = "ribbonPageGroup2";
             this.ribbonPageGroup2.Text = "Profesores";
             // 
             // barButtonItem2
             // 
-            this.barButtonItem2.Caption = "";
             this.barButtonItem2.Id = 2;
             this.barButtonItem2.ImageOptions.Image = global::MiniReto.Properties.Resources.profesor;
             this.barButtonItem2.ImageOptions.LargeImage = global::MiniReto.Properties.Resources.profesor;
@@ -145,13 +145,11 @@
             // 
             // ribbonPageGroup3
             // 
-            this.ribbonPageGroup3.ItemLinks.Add(this.barButtonItem3);
             this.ribbonPageGroup3.Name = "ribbonPageGroup3";
             this.ribbonPageGroup3.Text = "Proyectos";
             // 
             // barButtonItem3
             // 
-            this.barButtonItem3.Caption = "";
             this.barButtonItem3.Id = 3;
             this.barButtonItem3.ImageOptions.Image = global::MiniReto.Properties.Resources.proyectos;
             this.barButtonItem3.ImageOptions.LargeImage = global::MiniReto.Properties.Resources.proyectos;
@@ -168,19 +166,16 @@
             // 
             // ribbonPageGroup4
             // 
-            this.ribbonPageGroup4.ItemLinks.Add(this.barButtonItem4);
             this.ribbonPageGroup4.Name = "ribbonPageGroup4";
             this.ribbonPageGroup4.Text = "Nuevo";
             // 
             // ribbonPageGroup5
             // 
-            this.ribbonPageGroup5.ItemLinks.Add(this.barButtonItem5);
             this.ribbonPageGroup5.Name = "ribbonPageGroup5";
             this.ribbonPageGroup5.Text = "Editar";
             // 
             // ribbonPageGroup6
             // 
-            this.ribbonPageGroup6.ItemLinks.Add(this.barButtonItem6);
             this.ribbonPageGroup6.Name = "ribbonPageGroup6";
             this.ribbonPageGroup6.Text = "Eliminar";
             // 
@@ -211,6 +206,7 @@
             this.Ribbon = this.ribbon;
             this.StatusBar = this.ribbonStatusBar;
             this.Text = "Listados";
+            this.Load += new System.EventHandler(this.Listados_Load);
             ((System.ComponentModel.ISupportInitialize)(this.ribbon)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemImageEdit1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.listBoxControl1)).EndInit();

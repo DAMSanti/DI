@@ -17,5 +17,9 @@ namespace MiniReto
         {
             InitializeComponent();
         }
+
+        private void Listados_Load(object sender, EventArgs e) {
+
+        }
     }
 }

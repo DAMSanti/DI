@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rathm\\source\\repos\\MiniReto\\",
+  "WorkspaceRootPath": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\MiniReto\\MiniReto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C375C4C-99E6-4A6A-9F00-496E401AA95C}|MiniReto\\MiniReto.csproj|c:\\users\\rathm\\source\\repos\\minireto\\minireto\\listados.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C375C4C-99E6-4A6A-9F00-496E401AA95C}|MiniReto\\MiniReto.csproj|D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\MiniReto\\MiniReto\\minireto\\listados.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C375C4C-99E6-4A6A-9F00-496E401AA95C}|MiniReto\\MiniReto.csproj|solutionrelative:minireto\\listados.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C375C4C-99E6-4A6A-9F00-496E401AA95C}|MiniReto\\MiniReto.csproj|c:\\users\\rathm\\source\\repos\\minireto\\minireto\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C375C4C-99E6-4A6A-9F00-496E401AA95C}|MiniReto\\MiniReto.csproj|solutionrelative:minireto\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C375C4C-99E6-4A6A-9F00-496E401AA95C}|MiniReto\\MiniReto.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\minireto\\minireto\\minireto\\listados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C375C4C-99E6-4A6A-9F00-496E401AA95C}|MiniReto\\MiniReto.csproj|solutionrelative:minireto\\listados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C375C4C-99E6-4A6A-9F00-496E401AA95C}|MiniReto\\MiniReto.csproj|c:\\users\\rathm\\source\\repos\\minireto\\minireto\\listados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6C375C4C-99E6-4A6A-9F00-496E401AA95C}|MiniReto\\MiniReto.csproj|D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\MiniReto\\MiniReto\\minireto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C375C4C-99E6-4A6A-9F00-496E401AA95C}|MiniReto\\MiniReto.csproj|solutionrelative:minireto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C375C4C-99E6-4A6A-9F00-496E401AA95C}|MiniReto\\MiniReto.csproj|D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\MiniReto\\MiniReto\\minireto\\listados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6C375C4C-99E6-4A6A-9F00-496E401AA95C}|MiniReto\\MiniReto.csproj|solutionrelative:minireto\\listados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C375C4C-99E6-4A6A-9F00-496E401AA95C}|MiniReto\\MiniReto.csproj|c:\\users\\rathm\\source\\repos\\minireto\\minireto\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C375C4C-99E6-4A6A-9F00-496E401AA95C}|MiniReto\\MiniReto.csproj|solutionrelative:minireto\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C375C4C-99E6-4A6A-9F00-496E401AA95C}|MiniReto\\MiniReto.csproj|c:\\users\\rathm\\source\\repos\\minireto\\minireto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6C375C4C-99E6-4A6A-9F00-496E401AA95C}|MiniReto\\MiniReto.csproj|d:\\usuarios\\dam2\\ideaprojects\\di\\c#\\minireto\\minireto\\minireto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6C375C4C-99E6-4A6A-9F00-496E401AA95C}|MiniReto\\MiniReto.csproj|solutionrelative:minireto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C375C4C-99E6-4A6A-9F00-496E401AA95C}|MiniReto\\MiniReto.csproj|c:\\users\\rathm\\source\\repos\\minireto\\minireto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C375C4C-99E6-4A6A-9F00-496E401AA95C}|MiniReto\\MiniReto.csproj|solutionrelative:minireto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C375C4C-99E6-4A6A-9F00-496E401AA95C}|MiniReto\\MiniReto.csproj|D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\MiniReto\\MiniReto\\minireto\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C375C4C-99E6-4A6A-9F00-496E401AA95C}|MiniReto\\MiniReto.csproj|solutionrelative:minireto\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,42 +37,42 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Resources.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\rathm\\source\\repos\\MiniReto\\MiniReto\\Properties\\Resources.Designer.cs",
-              "RelativeDocumentMoniker": "MiniReto\\Properties\\Resources.Designer.cs",
-              "ToolTip": "C:\\Users\\rathm\\source\\repos\\MiniReto\\MiniReto\\Properties\\Resources.Designer.cs",
-              "RelativeToolTip": "MiniReto\\Properties\\Resources.Designer.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T22:19:48.392Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Listados.cs",
+              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\MiniReto\\MiniReto\\MiniReto\\Listados.cs",
+              "RelativeDocumentMoniker": "MiniReto\\Listados.cs",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\MiniReto\\MiniReto\\MiniReto\\Listados.cs",
+              "RelativeToolTip": "MiniReto\\Listados.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:34:07.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Listados.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\rathm\\source\\repos\\MiniReto\\MiniReto\\Listados.Designer.cs",
+              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\MiniReto\\MiniReto\\MiniReto\\Listados.Designer.cs",
               "RelativeDocumentMoniker": "MiniReto\\Listados.Designer.cs",
-              "ToolTip": "C:\\Users\\rathm\\source\\repos\\MiniReto\\MiniReto\\Listados.Designer.cs",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\MiniReto\\MiniReto\\MiniReto\\Listados.Designer.cs",
               "RelativeToolTip": "MiniReto\\Listados.Designer.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAMwJwAAABpAAAAAAAAAA==",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAkwO8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T21:58:28.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Listados.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\rathm\\source\\repos\\MiniReto\\MiniReto\\Listados.cs",
+              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\MiniReto\\MiniReto\\MiniReto\\Listados.cs",
               "RelativeDocumentMoniker": "MiniReto\\Listados.cs",
-              "ToolTip": "C:\\Users\\rathm\\source\\repos\\MiniReto\\MiniReto\\Listados.cs [Dise\u00F1o]",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\MiniReto\\MiniReto\\MiniReto\\Listados.cs [Dise\u00F1o]",
               "RelativeToolTip": "MiniReto\\Listados.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T22:15:41.193Z",
@@ -80,26 +80,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\rathm\\source\\repos\\MiniReto\\MiniReto\\Login.cs",
+              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\MiniReto\\MiniReto\\MiniReto\\Login.cs",
               "RelativeDocumentMoniker": "MiniReto\\Login.cs",
-              "ToolTip": "C:\\Users\\rathm\\source\\repos\\MiniReto\\MiniReto\\Login.cs",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\MiniReto\\MiniReto\\MiniReto\\Login.cs",
               "RelativeToolTip": "MiniReto\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T22:10:38.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Login.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\rathm\\source\\repos\\MiniReto\\MiniReto\\Login.Designer.cs",
+              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\MiniReto\\MiniReto\\MiniReto\\Login.Designer.cs",
               "RelativeDocumentMoniker": "MiniReto\\Login.Designer.cs",
-              "ToolTip": "C:\\Users\\rathm\\source\\repos\\MiniReto\\MiniReto\\Login.Designer.cs",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\MiniReto\\MiniReto\\MiniReto\\Login.Designer.cs",
               "RelativeToolTip": "MiniReto\\Login.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T21:33:35.946Z",
               "EditorCaption": ""
@@ -108,13 +107,23 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Login.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\rathm\\source\\repos\\MiniReto\\MiniReto\\Login.cs",
+              "DocumentMoniker": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\MiniReto\\MiniReto\\MiniReto\\Login.cs",
               "RelativeDocumentMoniker": "MiniReto\\Login.cs",
-              "ToolTip": "C:\\Users\\rathm\\source\\repos\\MiniReto\\MiniReto\\Login.cs [Dise\u00F1o]",
+              "ToolTip": "D:\\Usuarios\\DAM2\\IdeaProjects\\DI\\C#\\MiniReto\\MiniReto\\MiniReto\\Login.cs [Dise\u00F1o]",
               "RelativeToolTip": "MiniReto\\Login.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T21:25:18.116Z",
               "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 173,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
